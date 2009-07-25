@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>name</key>
+		<string>Video Playing Settings</string>
+		<key>content</key>
+		<dict>
+			<key>opt_noaudio</key>
+			<dict>
+				<key>value</key>
+				<string>0</string>
+				<key>name</key>
+				<string>No Audio (Restart To Take Effect)</string>
+			</dict>
+		</dict>
+	</dict>
+	<dict>
+		<key>content</key>
+		<array>
+			<dict>
+				<key>Name</key>
+				<string>temp</string>
+			</dict>
+		</array>
+		<key>name</key>
+		<string>Servers</string>
+	</dict>
+</array>
+</plist>
